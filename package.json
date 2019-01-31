@@ -1,0 +1,33 @@
+{
+  "name": "tea-button",
+  "version": "0.0.1",
+  "description": "react button component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea-react/tea-button.git"
+  },
+  "author": "coffee bi",
+  "license": "MIT",
+  "files": [
+    "src",
+    "dist",
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "components",
+    "component",
+    "button",
+    "observer",
+    "observable",
+    "watch"
+  ],
+  "bugs": {
+    "url": "https://github.com/tea-react/tea-button/issues"
+  },
+  "homepage": "https://github.com/tea-react/tea-button#readme"
+}
